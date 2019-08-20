@@ -45,5 +45,8 @@ Then, update the stylesheet header in `style.css`, the links in `footer.php` wit
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
-#MyApp
+
+
+My App
+---------------
 This is my app
